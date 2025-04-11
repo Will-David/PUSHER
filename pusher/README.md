@@ -12,3 +12,4 @@ English:
 I'd like to introduce you to a little trick I wanted to quickly code to make it easier to push to machines by typing just one command.
 You can discover more about my work by using the "-h" flag: 
     './pusher -h'
+ps: Don't forget to attribute executing rights / N'oubliez pas d'atribuer les droits d'exécution.
